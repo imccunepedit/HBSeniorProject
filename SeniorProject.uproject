@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0003DC03-08D7-49B4-BA1E-040E07590608}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SeniorProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
